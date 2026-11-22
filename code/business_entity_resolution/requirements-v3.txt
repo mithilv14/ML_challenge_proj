@@ -1,0 +1,2 @@
+# V3-only dependency; the baseline and V2 remain standard-library based.
+xgboost>=2.0,<4.0
